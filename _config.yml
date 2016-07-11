@@ -1,14 +1,14 @@
-layout_spectrum: 0.8457193055655807
-typography_spectrum: 0.4521091841161251
+layout_spectrum: 0.0355511752422899
+typography_spectrum: 0.777725663036108
 color:
-  brandStrength: 0.643660286674276
-  lightness: 0.06610048096626997
-  saturation: 0.7043332967441529
-  rhythmicContrast: 0.0960900557693094
+  brandStrength: 0.1739338298793882
+  lightness: 0.8553659070748836
+  saturation: 0.2235968739259988
+  rhythmicContrast: 0.509584897197783
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: RUA Architects & Designers
