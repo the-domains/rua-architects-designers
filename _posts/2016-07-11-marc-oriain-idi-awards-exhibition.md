@@ -44,8 +44,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/153773624'
 title: 'Marc O''Riain : IDI Awards Exhibition'
-datePublished: '2016-07-11T18:14:08.415Z'
-dateModified: '2016-07-11T18:13:55.563Z'
+datePublished: '2016-07-11T18:22:04.208Z'
+dateModified: '2016-07-11T18:21:33.395Z'
 starred: false
 sourcePath: _posts/2016-07-11-marc-oriain-idi-awards-exhibition.md
 inFeed: true
