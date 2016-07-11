@@ -6,14 +6,14 @@ description: >-
   mundane to excite, enthuse and elate. Their interiors and architecture have
   been celebrated worldwide at awards and exhibitions from here in Ireland to
   Italy, Singapore, China and the US.
-dateModified: '2016-07-11T18:18:59.927Z'
-datePublished: '2016-07-11T18:19:00.271Z'
+dateModified: '2016-07-11T18:19:15.938Z'
+datePublished: '2016-07-11T18:19:16.304Z'
 title: Creating memorable Spaces
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1eb5f3c-acb2-4ba4-8907-c0a4fabf826d.jpg
 sourcePath: _posts/2016-07-11-creating-memorable-spaces.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
