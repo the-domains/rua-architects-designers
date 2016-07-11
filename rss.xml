@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 21:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 21:55:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f92dca-acb7-46e2-8a05-20ac0552cbc4.jpg</link>
             <guid isPermaLink="false">e6ddf7e6-7f62-4efd-a560-a9919663a134</guid>
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91cf4152-0ea4-4fd9-9669-99e24d692f68.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/91cf4152-0ea4-4fd9-9669-99e24d692f68.jpg</link>
+            <guid isPermaLink="false">0f6a84e3-b99e-4834-a5b0-9efe38e3a9f5</guid>
+            <pubDate>Mon, 11 Jul 2016 21:55:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2013 Winners | IDI Institute of Designers in Ireland]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8370eec6-9476-4023-8500-b3b435f83933.jpg</link>
             <guid isPermaLink="false">baac7a74-edfe-47a4-b25a-7a99c8b347fc</guid>
             <pubDate>Mon, 11 Jul 2016 18:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Talk with Marc O'Riain - Bloom]]></title>
-            <description><![CDATA[<article><h1>A Talk with Marc O'Riain - Bloom</h1><p>Luzie (my creative partner in crime) and I popped over to the Design Hub to listen to one of Ireland's most senior awarded commercial interior architecture professionals to discuss his work on The Architecture Factory, a building part of the CIT campus.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7fd30ff3476703a19003462ba187252/noop.jpg?input=http%3A%2F%2Fwww.thisisbloom.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fmarc-o-riain.jpg"></article>]]></description>
-            <link>http://www.thisisbloom.com/2015/11/03/a-talk-with-marc-oriain/</link>
-            <guid isPermaLink="false">2c562a0e-0518-435b-acad-562201722e4d</guid>
-            <pubDate>Mon, 11 Jul 2016 18:21:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
