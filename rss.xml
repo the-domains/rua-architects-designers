@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 22:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 22:17:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef2b6580-dfa9-4e92-baf1-eaa25d378cd1.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef2b6580-dfa9-4e92-baf1-eaa25d378cd1.jpg</link>
+            <guid isPermaLink="false">8e75e2a0-6101-4d00-a19b-21dca6738dcc</guid>
+            <pubDate>Mon, 11 Jul 2016 22:17:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A new vision for Ireland as 'design island']]></title>
-            <description><![CDATA[<article><h1>A new vision for Ireland as 'design island'</h1><p>For decades, Irish design was inextricably linked to a thriving community of craft producers, a strong Irish presence in international fashion and a successful cohort of long established indigenous companies designing and manufacturing on an industrial scale. But times have changed and so has the meaning of "designed in Ireland".</p><img src="http://www.irishtimes.com/polopoly_fs/1.2532469.1455281373!/image/image.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A new vision for Ireland as 'design island'</h1><p>For decades, Irish design was inextricably linked to a thriving community of craft producers, a strong Irish presence in international fashion and a successful cohort of long established indigenous companies designing and manufacturing on an industrial scale. But times have changed and so has the meaning of "designed in Ireland".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/362d098798eeac9a5040264b450275f2/noop.jpg?input=http%3A%2F%2Fwww.irishtimes.com%2Fpolopoly_fs%2F1.2532469.1455281373!%2Fimage%2Fimage.jpg"></article>]]></description>
             <link>http://www.irishtimes.com/business/a-new-vision-for-ireland-as-design-island-1.2532470</link>
             <guid isPermaLink="false">e2bf24ba-4a3b-455c-80a5-2d090b85306f</guid>
             <pubDate>Mon, 11 Jul 2016 22:08:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.designboom.com/design/a-design-award-competition-winners-2014-04-15-2014/</link>
             <guid isPermaLink="false">59e5915e-221c-433f-8d96-eea96d4375d6</guid>
             <pubDate>Mon, 11 Jul 2016 18:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architecture Factory award]]></title>
-            <description><![CDATA[<article><h1>Architecture Factory award</h1><p>It's been a good week for architecture faculties - following the first increase in CAO points in five years. CIT's Architecture department also celebrated a design award for it's new Architecture Factory, above. The makeover of the former Tyco premises, which the Institute acquired some years ago, has won a Platinum A design award in Italy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a1472a7c057d5cbcbc716b1001e855c/noop.jpg?input=http%3A%2F%2Fmedia.central.ie%2Fmedia%2Fimages%2Fa%2FArchitectureFactoryCIT_large.jpg"></article>]]></description>
-            <link>http://www.irishexaminer.com/property/commercial/architecture-factory-award-282940.html</link>
-            <guid isPermaLink="false">29d4aca0-b939-4860-9cad-7d312319232f</guid>
-            <pubDate>Mon, 11 Jul 2016 18:45:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
