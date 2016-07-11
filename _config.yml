@@ -1,4 +1,3 @@
-layout_spectrum: 0.0355511752422899
 typography_spectrum: 0.777725663036108
 color:
   brandStrength: 0.1739338298793882
@@ -11,4 +10,9 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
+layout_spectrum: 0.0355511752422899
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15879d9-0067-40ea-9afd-411f127af83c.png
 name: RUA Architects & Designers
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ad8827e-9983-474b-a6c7-1d4b5d10087b.png
