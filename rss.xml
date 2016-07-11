@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 22:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 22:43:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f92dca-acb7-46e2-8a05-20ac0552cbc4.jpg</link>
             <guid isPermaLink="false">e6ddf7e6-7f62-4efd-a560-a9919663a134</guid>
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CIT Architecture Factory]]></title>
+            <description><![CDATA[<article><h1>CIT Architecture Factory</h1><p>Saturday 10:00-17:00 The Architecture Factory houses Cork Institute of Technology's (CIT) Interior Architecture and Architectural Technology courses in a former warehouse building. The repurposing of a disused factory to an educational space was done using six shipping containers to divide the large factory floor into open studio spaces, these containers also function as offices for the lecturers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c3f64dd76c5362689820bc97c6541a7/noop.jpg?input=http%3A%2F%2Fwww.openhousecork.ie%2Fwp-content%2Fuploads%2FIMG_0552.jpg"></article>]]></description>
+            <link>http://www.openhousecork.ie/cit-architecture-factory/</link>
+            <guid isPermaLink="false">09c15954-7663-46ab-88af-9daa0878f84a</guid>
+            <pubDate>Mon, 11 Jul 2016 22:43:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winners 2014 | INSIDE World Festival of Interiors]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.houseandhome.ie/real-homes/architects-marc-and-deborah-create-a-unique-kinsale-cottage-260</link>
             <guid isPermaLink="false">50623645-0f97-43a4-8a09-9c626824346b</guid>
             <pubDate>Mon, 11 Jul 2016 22:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architecture and Renovation: Thinking outside the boxes in Cork - The Sunday Business Post]]></title>
-            <description><![CDATA[<article><h1>Architecture and Renovation: Thinking outside the boxes in Cork - The Sunday Business Post</h1><p>Even with the many awards for his education space the Architecture Factory hanging on the wall, Marc Ó Riain seemed nervous on the eve of the World Interior of the Year competition last week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0fce3abf9a8d5618485cd79f38dc1cbe/noop.jpg?input=http%3A%2F%2Fwww.businesspost.ie%2Fwp-content%2Fuploads%2F2015%2F05%2Fa305855b-81a9-4429-8bf8-951377fcfd8d-1.jpg"></article>]]></description>
-            <link>http://www.businesspost.ie/architecture-and-renovation-thinking-outside-the-boxes-in-cork/</link>
-            <guid isPermaLink="false">7f2a02e1-4652-4460-8cdd-50210a25af66</guid>
-            <pubDate>Mon, 11 Jul 2016 22:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
