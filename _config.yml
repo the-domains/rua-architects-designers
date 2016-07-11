@@ -1,16 +1,16 @@
-typography_spectrum: 0.777725663036108
+typography_spectrum: 0.46100852615199983
 color:
-  brandStrength: 0.1739338298793882
-  lightness: 0.8553659070748836
-  saturation: 0.2235968739259988
-  rhythmicContrast: 0.509584897197783
+  brandStrength: 0.8387473470065743
+  lightness: 0.7305838444735855
+  saturation: 0.5081179386470467
+  rhythmicContrast: 0.5626858149189502
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.0355511752422899
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.0030336836352944374
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15879d9-0067-40ea-9afd-411f127af83c.png
 name: RUA Architects & Designers
