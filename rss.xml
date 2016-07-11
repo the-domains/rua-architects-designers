@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 22:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 22:18:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f92dca-acb7-46e2-8a05-20ac0552cbc4.jpg</link>
             <guid isPermaLink="false">e6ddf7e6-7f62-4efd-a560-a9919663a134</guid>
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fundamentals Zero Energy Retrofit by Ó'Riain & Correia]]></title>
-            <description><![CDATA[<article><h1>Fundamentals Zero Energy Retrofit by Ó'Riain & Correia</h1><p>This book is meant to be a simple fundamental guide to understanding the principle steps to achieving nZEB with your building retrofit. This guide is aimed at the owner, developer, facilities manager, and financier. It will also be helpful to architects, engineers, building designers and students.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/88f02875210ee4b5e1a4efd397b7040a/noop.jpg?input=http%3A%2F%2Fwww.blurb.co.uk%2Fimages%2Fuploads2%2Fcatalog%2F003%2F419%2F188%2F7446824-80c4602d83defe8fe27748516003154c.jpg"></article>]]></description>
-            <link>http://www.blurb.co.uk/books/6912183-fundamentals-zero-energy-retrofit</link>
-            <guid isPermaLink="false">c55a8d0f-adbc-486e-a799-bf981775bb17</guid>
-            <pubDate>Mon, 11 Jul 2016 22:17:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cork engineering school pilots deep energy upgrade - passivehouseplus.ie]]></title>
@@ -75,6 +68,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/91cf4152-0ea4-4fd9-9669-99e24d692f68.jpg</link>
             <guid isPermaLink="false">0f6a84e3-b99e-4834-a5b0-9efe38e3a9f5</guid>
             <pubDate>Mon, 11 Jul 2016 21:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2013 Winners | IDI Institute of Designers in Ireland]]></title>
+            <description><![CDATA[<article><h1>2013 Winners | IDI Institute of Designers in Ireland</h1><p>The Architecture Factory Marc O'Riain ( CIT Interior Architect), Neil Tobin & Kieran Condon ( RKD Architects) Supported by ARUP: Bertie O'Connell, Paul McGrath and Pat Hegarty Punch Consulting: Mark McKenna RPS: Mark O'Loughlin F22 Photography: Janice O'Connell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0264ea5d532f125b497f40b9d9506030729fbd8f.jpg"></article>]]></description>
+            <link>http://www.idi-design.ie/awards/idi/winners/2013-winners/</link>
+            <guid isPermaLink="false">c953ac6b-cac3-412b-920e-84551cece48b</guid>
+            <pubDate>Mon, 11 Jul 2016 21:55:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
