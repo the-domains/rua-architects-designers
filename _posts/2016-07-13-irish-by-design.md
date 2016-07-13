@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-13T22:03:14.332Z'
+datePublished: '2016-07-13T22:41:47.666Z'
 sourcePath: _posts/2016-07-13-irish-by-design.md
 isBasedOnUrl: 'https://vimeo.com/143148310'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Glass Eye Productions Ltd.
     url: 'http://vimeo.com/glasseyemultimedia'
     avatar: {}
-dateModified: '2016-07-13T22:02:54.343Z'
+dateModified: '2016-07-13T22:04:15.247Z'
 title: Irish by Design
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/143148310'
