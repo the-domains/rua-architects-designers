@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 22:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 12:47:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f92dca-acb7-46e2-8a05-20ac0552cbc4.jpg</link>
             <guid isPermaLink="false">e6ddf7e6-7f62-4efd-a560-a9919663a134</guid>
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish by Design]]></title>
+            <description><![CDATA[<article><h1>Irish by Design</h1><p>This is "Irish by Design" by glasseyemultimedia on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <link>https://vimeo.com/143148310</link>
+            <guid isPermaLink="false">b5024c7a-c2d3-4b0f-a764-0dd19abb4b12</guid>
+            <pubDate>Wed, 13 Jul 2016 12:46:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CIT Architecture Factory]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.irishtimes.com/business/a-new-vision-for-ireland-as-design-island-1.2532470</link>
             <guid isPermaLink="false">e2bf24ba-4a3b-455c-80a5-2d090b85306f</guid>
             <pubDate>Mon, 11 Jul 2016 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marc and Deborah's unique Kinsale cottage | HouseAndHome.ie]]></title>
-            <description><![CDATA[<article><h1>Marc and Deborah's unique Kinsale cottage | HouseAndHome.ie</h1><p>In our new issue of House and Home we met Marc O'Riain, an award-winning interior architect, lecturer and researcher, and his wife Deborah Ni Riain, architect, lecturer and urban designer. Marc and Deborah kindly let us look around their beautiful 16th Century cottage in Kinsale - and you can check out the full, glossy feature in the new issue, but in the meantime here are some online extras!</p></article>]]></description>
-            <link>http://www.houseandhome.ie/real-homes/architects-marc-and-deborah-create-a-unique-kinsale-cottage-260</link>
-            <guid isPermaLink="false">50623645-0f97-43a4-8a09-9c626824346b</guid>
-            <pubDate>Mon, 11 Jul 2016 22:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
