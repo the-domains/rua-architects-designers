@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 23:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 23:12:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f92dca-acb7-46e2-8a05-20ac0552cbc4.jpg</link>
             <guid isPermaLink="false">e6ddf7e6-7f62-4efd-a560-a9919663a134</guid>
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Architecture Festival 2014 Presentation, Architecture Factory]]></title>
+            <description><![CDATA[<article><h1>World Architecture Festival 2014 Presentation, Architecture Factory</h1><p>This video is about World Architecture Festival 2014</p></article>]]></description>
+            <link>https://vimeo.com/174744970</link>
+            <guid isPermaLink="false">27c52117-d3b2-44ea-8a08-b15c58ca3b40</guid>
+            <pubDate>Thu, 14 Jul 2016 23:12:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Competing with the High and mighty of Design and Architecture at the World Architecture Festival 2014.]]></title>
@@ -68,13 +75,6 @@
             <link>https://passivehouseplus.ie/magazine/upgrade/cork-engineering-school-pilots-deep-energy-upgrade</link>
             <guid isPermaLink="false">cbb698f0-7e2b-4eba-a3b8-d2f3332773aa</guid>
             <pubDate>Mon, 11 Jul 2016 22:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best of Irish design celebrated at the IDI Awards]]></title>
-            <description><![CDATA[<article><h1>Best of Irish design celebrated at the IDI Awards</h1><p>The Institute of Designers in Ireland announced the winners of their annual awards at a gala ceremony in The Marker Hotel on Thursday, 26th November, ahead of the release of a report which shows a significant increase in optimism and confidence within the Irish design sector.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/117d13b5a8d7b39d326178109281d6a5/noop.jpg?input=http%3A%2F%2Fwww.elevate.ie%2Fwp-content%2Fimages%2FMarc-ORiain-President-of-the-IDI-Minister-Richard-Bruton-and-Jennifer-Goff-National-Museum-of-Ireland-774x529.jpg"></article>]]></description>
-            <link>http://www.elevate.ie/best-of-irish-design-celebrated-at-the-idi-awards/</link>
-            <guid isPermaLink="false">29c07a86-582d-46d6-9dcb-f9e9b9bc2b2d</guid>
-            <pubDate>Mon, 11 Jul 2016 22:17:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
