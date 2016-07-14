@@ -4,7 +4,7 @@
         <description><![CDATA[RUA Architects & Designers]]></description>
         <link>https://thegrid.ai/rua-architects-designers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 23:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 23:18:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rua-architects-designers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creating memorable Spaces]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f92dca-acb7-46e2-8a05-20ac0552cbc4.jpg</link>
             <guid isPermaLink="false">e6ddf7e6-7f62-4efd-a560-a9919663a134</guid>
             <pubDate>Mon, 11 Jul 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b2d0712-ed06-43f2-b4fe-a4eece1a4757.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b2d0712-ed06-43f2-b4fe-a4eece1a4757.jpg</link>
+            <guid isPermaLink="false">c93c014d-9e29-4bdd-b5d1-921a6bb95133</guid>
+            <pubDate>Thu, 14 Jul 2016 23:17:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Architecture Festival 2014 Presentation, Architecture Factory]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.blurb.co.uk/books/6912183-fundamentals-zero-energy-retrofit</link>
             <guid isPermaLink="false">c55a8d0f-adbc-486e-a799-bf981775bb17</guid>
             <pubDate>Mon, 11 Jul 2016 22:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cork engineering school pilots deep energy upgrade - passivehouseplus.ie]]></title>
-            <description><![CDATA[<article><h1>Cork engineering school pilots deep energy upgrade - passivehouseplus.ie</h1><p>When the Regional Technical College network sprang up around Ireland in the late sixties and early seventies, energy was cheap. Ensuring that the building envelope delivered a high thermal performance was not a priority. As a result, the school of mechanical and process engineering at Cork Institute of Technology has not been a particularly comfortable place in which to work or study.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6d0c2bddb762a3ca03d2f2703341bdb6/noop.jpg?input=https%3A%2F%2Fpassivehouseplus.ie%2Fimages%2Fmagazine_images%2FVol_1_-_Iss_03%2FCork-engineering-school-01.jpg"></article>]]></description>
-            <link>https://passivehouseplus.ie/magazine/upgrade/cork-engineering-school-pilots-deep-energy-upgrade</link>
-            <guid isPermaLink="false">cbb698f0-7e2b-4eba-a3b8-d2f3332773aa</guid>
-            <pubDate>Mon, 11 Jul 2016 22:17:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
